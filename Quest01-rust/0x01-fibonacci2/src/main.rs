@@ -6,7 +6,7 @@ pub fn fibonacci(n: u32) -> u32 {
     let  value: u32;
 
     if  n < 2 {
-    	value = n;
+    	value = 1;
     }
     else {
     	 value = fibonacci(n - 1) + fibonacci(n - 2);
