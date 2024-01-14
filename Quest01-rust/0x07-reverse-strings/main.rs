@@ -1,12 +1,7 @@
 
 
-pub fn rev_str(input: &str) -> String {
-	
-}
-
-
-
-//use reverse_string::rev_str;
+mod reverse_string;
+use reverse_string::rev_str;
 
 fn main() {
     println!("{}", rev_str("Hello, world!"));
