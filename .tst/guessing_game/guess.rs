@@ -2,6 +2,7 @@
 
 fn main(){
 	let mut choice = String::new();	
+	choice = "Jojo".to_string();
 
 	println!("Guess the number");
 	println!("Plese enter the number");
