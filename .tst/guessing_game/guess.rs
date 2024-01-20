@@ -1,4 +1,4 @@
-use std::io;
+//use std::io;
 
 fn main(){
 	let mut choice = String::new();	
@@ -7,7 +7,7 @@ fn main(){
 	println!("Plese enter the number");
 
 	
-	io::stdin()
+	std::io::stdin()
 		.read_line(&mut choice)
 		.expect("Failed to read line");
 
