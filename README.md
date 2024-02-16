@@ -1,7 +1,6 @@
 # Zone01-Rust-Pool
 
 ### Quest 01-rust
-
 Exercises:
 
 - fibonacci2 | [fibonacci2](./Quest01-rust/0x01-fibonacci2/README.md)
