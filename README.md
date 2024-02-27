@@ -1,4 +1,4 @@
-# Zone01-Rust-Pool
+## Zone01-Rust-Pool
 
 ### Quest 01-rust
 Exercises:
