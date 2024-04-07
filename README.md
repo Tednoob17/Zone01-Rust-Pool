@@ -3,8 +3,8 @@ Zone01-Rust-Pool
 ## Quest 01-rust
 Exercises:
 
-- fibonacci2 | [fibonacci2](./Quest01-rust/0x01-fibonacci2/README.md)
-- scalar | [scalar](./Quest01-rust/0x02-scalar/README.md)
+- fibonacci2
+- scalar 
 - temperature_conv | https://github.com/01-edu/public/tree/master/subjects/temperature_conv
 - looping | https://github.com/01-edu/public/tree/master/subjects/looping
 - speed_transformation | https://github.com/01-edu/public/tree/master/subjects/speed_transformation
