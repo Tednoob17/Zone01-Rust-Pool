@@ -5,7 +5,7 @@ Exercises:
 
 - fibonacci2
 - scalar 
-- temperature_conv | https://github.com/01-edu/public/tree/master/subjects/temperature_conv
+- temperature_conv 
 - looping | https://github.com/01-edu/public/tree/master/subjects/looping
 - speed_transformation | https://github.com/01-edu/public/tree/master/subjects/speed_transformation
 - groceries | https://github.com/01-edu/public/tree/master/subjects/groceries
